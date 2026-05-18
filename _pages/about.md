@@ -13,18 +13,29 @@ I am an environmental microbiologist who spends a surprising amount of time thin
 Education
 ======
 University of Copenhagen & Southern University of Science and Technology
+
 Ph.D. in Biology
+
 Sep. 2016 – Nov. 2017
+
 Supervisors: Prof. Søren J. Sørensen (UCPH) / Prof. Yu Xia (SUSTech)
 
+
 The Hong Kong University of Science and Technology
+
 M.Sc. in Environmental Engineering and Management
+
 Sep. 2016 – Nov. 2017
+
 Supervisor: Prof. Guanghao Chen
 
+
 Hunan University
+
 B.Sc. in Environmental Science
+
 Sep. 2012 – June. 2016
+
 Supervisor: Prof. Binbin Huang
 
 ======
