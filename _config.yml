@@ -27,7 +27,7 @@ author:
   name             : "Ziqi WU"
   pronouns         : "Doctor" # example: "she/her"  
   bio              : "I am an environmental microbiologist who spends a surprising amount of time thinking about wastewater, bacteria, and the genes they secretly exchange. My research focuses on antimicrobial resistance, wastewater-based epidemiology, microbial genomics, and One Health surveillance. By combining long-read metagenomics, bioinformatics, and environmental monitoring, I try to understand how antibiotic-resistant pathogens move through urban wastewater systems—because even microbes have travel routes."
-  location         : "Earth"
+  location         : "Shenzhen, Guangdong, China"
   employer         : "Shenzhen CDC"
   uri              : # URL
   email            : "burinki94@gmail.com / wuziqi_94@163.com" 
@@ -38,7 +38,7 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8300-9673" # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "Bruce_WU_94" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
