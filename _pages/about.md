@@ -14,30 +14,19 @@ Education
 ======
 University of Copenhagen & Southern University of Science and Technology
 
-Ph.D. in Biology
-
-Sep. 2016 – Nov. 2017
-
-Supervisors: Prof. Søren J. Sørensen (UCPH) / Prof. Yu Xia (SUSTech)
-
+Ph.D. in Biology, Sep. 2016 – Nov. 2017
+- Supervisors: Prof. Søren J. Sørensen (UCPH) / Prof. Yu Xia (SUSTech)
 
 The Hong Kong University of Science and Technology
 
-M.Sc. in Environmental Engineering and Management
+M.Sc. in Environmental Engineering and Management, Sep. 2016 – Nov. 2017
 
-Sep. 2016 – Nov. 2017
-
-Supervisor: Prof. Guanghao Chen
-
+- Supervisor: Prof. Guanghao Chen
 
 Hunan University
 
-B.Sc. in Environmental Science
+B.Sc. in Environmental Science, Sep. 2012 – June. 2016
+- Supervisor: Prof. Binbin Huang
 
-Sep. 2012 – June. 2016
-
-Supervisor: Prof. Binbin Huang
-
-======
 
 
