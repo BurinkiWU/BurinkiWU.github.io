@@ -23,7 +23,7 @@ repository               : "BurinkiWU/BurinkiWU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wuzq_2023.jpg"
+  avatar           : "wuzq_2023.png"
   name             : "Ziqi WU (Bruce)"
   pronouns         : "Doctor" # example: "she/her"  
   bio              : "Senior researchers about antibiotic resistance bacteria, resistome, wastewater-based epidemiology, microbial genomics, and One Health surveillance."
