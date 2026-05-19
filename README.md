@@ -4,4 +4,4 @@ I am an environmental microbiologist who spends a surprising amount of time thin
 
 # Welcome
 
-See more info at https://BurikiWU.github.io/
+See more info at https://BurinkiWU.github.io/
