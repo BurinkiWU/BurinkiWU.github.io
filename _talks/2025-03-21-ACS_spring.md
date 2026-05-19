@@ -2,7 +2,7 @@
 title: "American Chemical Society(ACS) Spring 2025"
 collection: Presentation
 type: "Conference proceedings presentation"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/2025-03-21-ACS_spring
 venue: "American Chemical Society(ACS) Spring 2025"
 date: 2025-03-21
 location: "San Diego, California, USA"
