@@ -1,0 +1,14 @@
+---
+title: "Plasmid-driven clonal expansion of multidrugresistant monophasic Salmonella Typhimurium in a Global Food Trade Hub"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-02-23-EMi_Salmonella_Typhimurium
+excerpt: 'Shenzhen, a major port city with a heavily imported food supply, offers a critical setting to examine the spread and adaptation of multidrug-resistant Salmonella 1,4,[5],12:i: – (S. 1,4,[5],12:i:-). This study integrates 17 years of genomic, epidemiological, and food safety data. We explored the serovar’s population structure, antibiotic resistance gene (ARG) patterns, and transmission dynamics locally and globally. Our analyses revealed substantial rise in S. 1,4,[5],12:i: – prevalence among non-typhoidal Salmonella isolates over the past 17 years, from 2.27% in 2007 to 24.79% in 2023. S. 1,4,[5],12:i: – was predominated by ST34 (97.9%), with high genotypic resistance to aminoglycosides (100%), tetracyclines (96.6%), β-lactams (89.3%), and sulphonamides (88.5%). Phylogenetic analysis separated S. 1,4,[5],12:i: into four clades. Clade 4, first detected in Shenzhen in 2013, emerged as the predominant lineage by 2023 (56.9%). This clade exhibited minimal genetic diversity (≤ 38 core SNPs), with adaptive traits linked to the acquisition of resistance-associated plasmids. Notably, plasmid-driven ARGs, including carbapenem resistance genes, have emerged as a growing concern. Transmission analysis identified two key transmission dynamics: transient outbreaks primarily involving food handlers and persistent lineages sustained through local and international spread, often facilitated by the food supply chain. These findings underscore the role of occupational carriers and imported food products in the dissemination of ARGs, emphasizing the need for enhanced surveillance and improved health and hygiene practices for food handlers. This study provides a comprehensive molecular epidemiological framework for addressing multidrug-resistant Salmonella in globalized urban food hubs, offering a foundation for future surveillance and control efforts.'
+date: 2025-02-23
+venue: 'Emerging Microbes & Infections'
+slidesurl: 'https://BurinkiWU.github.io/files/slides3.pdf'
+paperurl: 'https://BurinkiWU.github.io/files/paper3.pdf'
+citation: 'Dingjie Huang, Ziqi WU et.al. (2025). &quot;doi.org/10.1080/22221751.2025.2542251.&quot; <i>Emerging Microbes & Infections</i>.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
