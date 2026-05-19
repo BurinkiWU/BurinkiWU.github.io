@@ -2,7 +2,7 @@
 title: "The International Conference on Bacteria and Global Health"
 collection: Seminar
 type: "Poster Presentation"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2024-02-17-Bacteria_GlobalHealth
 venue: "SUSTech, Shenzhen, Guangdong, China"
 date: 2024-02-17
 location: "Shenzhen, Guangdong, China"
